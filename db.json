@@ -25,7 +25,8 @@
     "auth":
         {
             "login":"test",
-            "password":"pas"
+            "password":"pas",
+            "isAuth": false
         },
     "comments": [
         {
